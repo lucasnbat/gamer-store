@@ -1,0 +1,1 @@
+/* Núcleo com regras de negócio da aplicação */
